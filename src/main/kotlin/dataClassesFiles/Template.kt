@@ -1,3 +1,5 @@
+package dataClassesFiles
+
 data class Template(
     val firstField: Long,
     val secondField: String,

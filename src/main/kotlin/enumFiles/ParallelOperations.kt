@@ -1,3 +1,5 @@
+package enumFiles
+
 enum class ParallelOperations(val value: String) {
     PARALLEL_CUSTOM_TOML_SERIALIZATION("${BaseWords.PARALLEL_WORD.value} ${SequentialOperations.CUSTOM_TOML_SERIALIZATION.value}"),
     PARALLEL_CUSTOM_TOML_DESERIALIZATION("${BaseWords.PARALLEL_WORD.value} ${SequentialOperations.CUSTOM_TOML_DESERIALIZATION.value}"),

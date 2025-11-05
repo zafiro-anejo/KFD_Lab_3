@@ -1,3 +1,5 @@
+import dataClassesFiles.Template
+
 object TestDataGenerator {
     private val random = kotlin.random.Random
 

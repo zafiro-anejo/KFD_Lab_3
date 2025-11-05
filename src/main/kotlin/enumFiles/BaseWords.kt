@@ -1,3 +1,5 @@
+package enumFiles
+
 enum class BaseWords(val value: String) {
     CUSTOM_WORD("Кастомная"),
     BUILT_IN_WORD("Встроенная"),
